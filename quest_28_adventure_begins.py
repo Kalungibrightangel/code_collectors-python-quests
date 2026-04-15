@@ -22,7 +22,7 @@ def party():
     choice = input("Open it? (yes/no): ")
 
     if choice == "yes":
-        ending_treasure()
+        ending_death()
     else:
         ending_safe()
 
