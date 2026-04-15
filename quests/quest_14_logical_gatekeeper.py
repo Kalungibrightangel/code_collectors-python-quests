@@ -1,3 +1,5 @@
+#this code gievs condtions to a user trying to acces something with age and moeny limits
+
 age = int(input ("How old are you? "))
 gold_coins = int(input ( "How many gold coins do you have? " ))
 
