@@ -1,2 +1,3 @@
 # code_collectors-python-quests
-This repository to learn fundamentals in python programming language. 
+We are learning markdown formating
+>This repository to learn fundamentals in python programming language. 
