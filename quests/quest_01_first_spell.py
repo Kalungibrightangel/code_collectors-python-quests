@@ -1,0 +1,1 @@
+print ("welcome to the amzing world of rick and morty")
