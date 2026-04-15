@@ -34,11 +34,10 @@ def library():
     choice = input("Use bridge or boat? (bridge/boat): ")
 
     if choice == "boat":
-        ending_death()
-    else:
         ending_safe()
+    else:
+        ending_death()
 
-g
 def ending_death():
     print("you wish it was money but it is not, it is a poisonous gas")
     print ("you die because it is real")
