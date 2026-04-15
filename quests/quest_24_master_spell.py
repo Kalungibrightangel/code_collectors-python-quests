@@ -11,5 +11,4 @@ def can_they_vote():
     else:
         print("Wait a few more years")
 
-
 can_they_vote()
