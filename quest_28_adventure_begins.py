@@ -34,18 +34,17 @@ def library():
     choice = input("Use bridge or boat? (bridge/boat): ")
 
     if choice == "boat":
-        ending_treasure()
+        ending_death()
     else:
         ending_safe()
 
-
-def ending_treasure():
+g
+def ending_death():
     print("you wish it was money but it is not, it is a poisonous gas")
     print ("you die because it is real")
 
 def ending_safe():
     print("Safe Return")
     print("You return to your sense because it is a dream")
-
 
 start()
