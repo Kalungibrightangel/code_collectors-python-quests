@@ -1,2 +1,3 @@
-Bat_man= "super strength"
-print(Bat_man)
+power= "super strength"
+hero_name= "Batman"
+print(hero_name + " has " + power) 
