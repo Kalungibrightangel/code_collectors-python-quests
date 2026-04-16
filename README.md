@@ -17,9 +17,7 @@ python3 quests/quest_29_code_breaker.py
 ```
 
 ---
-
-## Structure
-
+```
 code_collectors-python-quests/
 ├── quests/
 │   ├── quest_01_first_spell.py
@@ -53,7 +51,7 @@ code_collectors-python-quests/
 │   ├── quest_29_code_breaker.py
 │   └── quest_30_reflective_scribe.py
 └── README.md
-
+```
 ---
 
 ## What we covered
