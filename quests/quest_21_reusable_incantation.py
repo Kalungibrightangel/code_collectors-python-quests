@@ -1,3 +1,4 @@
+#Calling reusable functions multiple times
 def greet_adventurer():
     print("Welcome, to the new adventrous journey!")
 greet_adventurer() 
