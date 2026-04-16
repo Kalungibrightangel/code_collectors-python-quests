@@ -1,14 +1,16 @@
+#nested function, as for age then chekcs if tehy are aold enough
+
+
 def ask_for_age():
-    age = int(input("How old are you? "))
+    age = int(input("Enter your age: "))
     return age
 
-
-def can_they_vote():
-    age = ask_for_age()
-
+def can_they_vote(age):
     if age >= 18:
-        print("You are allowed to vote")
+        print("You can vote!")
     else:
-        print("Wait a few more years")
+        print("You are too young to vote.")
 
-can_they_vote()
+
+user_age = ask_for_age()
+can_they_vote(user_age)

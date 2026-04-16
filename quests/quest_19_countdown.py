@@ -1,7 +1,6 @@
 #countdown for a rocket launch
 
+for i in range(10, 0, -1):
+    print(i)
 
-for i in range (0, 11) :
-   if i == 10: 
-       print (i)
-       print ("Balsstoff!!")
+print("Blastoff!")
