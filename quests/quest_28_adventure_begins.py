@@ -1,3 +1,5 @@
+
+#this code is an adventure experience with options and two different endings 
 def start():
     print("You are appear in a matrix. Two paths appear.")
     print("1. Go left to a party")
